@@ -21,4 +21,4 @@ This is my personal website where I showcase my portfolio and blog about web dev
 - JavaScript - Interactivity
 
 ## Preview
-- ![Website Preview](link_to_screenshot.png)
+- ![Home Preview](./assets/home.png)

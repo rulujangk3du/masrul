@@ -6,9 +6,9 @@ This is my personal website where I showcase my portfolio and blog about web dev
 - [UI/UX Design Resources](https://www.figma.com/design/vxbFW7TWPjr5fwXo7RkIOx/%F0%9F%8E%A8-Personal-Portfolio-Template--Community-?node-id=216-6&p=f&t=stx0pwReWMIFzleC-0)
 
 ## Social Media
-- [Instagram] (https://www.instagram.com/_volenti?igsh=MXExY3lvemM2ODJydA%3D%3D&utm_source=qr)
-- [Whatsapp] (wa.me/+6287760084058)
-- [GitHub] (https://github.com/rulujangk3du)
+- [Instagram](https://www.instagram.com/_volenti?igsh=MXExY3lvemM2ODJydA%3D%3D&utm_source=qr)
+- [Whatsapp](wa.me/+6287760084058)
+- [GitHub](https://github.com/rulujangk3du)
 
 ## Pages
 - About
